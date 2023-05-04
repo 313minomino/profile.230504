@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98740603-60E9-4F17-919E-73451DF78799"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEE63682-108F-4AFD-B171-48B9F30E062D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "profile.230504/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tapButton1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEE63682-108F-4AFD-B171-48B9F30E062D - 825ab8c4c5bf8180"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_230504.ViewController.tapButton1() -&gt; ()"
+                  moduleName = "profile.230504"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakaiminori/Dropbox%20(SFC-CNS)/Mac/Downloads/Life%20is%20Tech/iphone%E7%A0%94%E4%BF%AE/profile.230504/profile.230504/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "DEE63682-108F-4AFD-B171-48B9F30E062D - 825ab8c4c5bf81e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_230504.ViewController.tapButton1() -&gt; ()"
+                  moduleName = "profile.230504"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakaiminori/Dropbox%20(SFC-CNS)/Mac/Downloads/Life%20is%20Tech/iphone%E7%A0%94%E4%BF%AE/profile.230504/profile.230504/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B3A00F-1C62-4C37-BF03-AABCFB072800"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "profile.230504/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
